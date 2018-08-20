@@ -1,0 +1,92 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.AWT.WinForms.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.AWT.WinForms.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Beans.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Beans.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Charsets.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Charsets.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Corba.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Corba.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Core.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Core.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Jdbc.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Jdbc.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Management.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Management.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Media.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Media.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Misc.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Misc.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Naming.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Naming.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Remoting.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Remoting.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Security.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Security.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.SwingAWT.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.SwingAWT.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Text.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Text.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Tools.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Tools.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Util.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.Util.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.XML.API.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.XML.API.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.XML.Bind.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.XML.Bind.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.XML.Crypto.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.XML.Crypto.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.XML.Parse.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.XML.Parse.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.XML.Transform.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.XML.Transform.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.XML.WebServices.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.XML.WebServices.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.XML.XPath.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.OpenJDK.XML.XPath.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.Reflection.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.Reflection.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.Runtime.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.Runtime.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.Runtime.JNI.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\IKVM.Runtime.JNI.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\weka.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\weka.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  3.272 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\Administrator\Desktop\gp14-sp-exo\GroupProject\AUDRI_Data\Managed\System.Xml.dll (this message is harmless)
+Number of leaves: 16
+Size of the tree: 25
+
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+SimulatorBehaviour:initialiseClassifier() (at C:\Users\Samuel\Desktop\GRP\Assets\SimulatorBehaviour.cs:171)
+SimulatorBehaviour:Awake() (at C:\Users\Samuel\Desktop\GRP\Assets\SimulatorBehaviour.cs:30)
+ 
+(Filename: C:/Users/Samuel/Desktop/GRP/Assets/SimulatorBehaviour.cs Line: 171)
+

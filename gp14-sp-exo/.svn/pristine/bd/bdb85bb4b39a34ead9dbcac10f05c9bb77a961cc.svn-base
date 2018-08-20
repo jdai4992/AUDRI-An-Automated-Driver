@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SimulatorBehaviour.cs">
+    <Files>
+      <File FileName="Assets\Sample Assets\2D\Scripts\PlayerBehaviour.cs" Line="10" Column="2" />
+      <File FileName="Assets\SimulatorMovement.cs" Line="46" Column="4" />
+      <File FileName="Assets\SimulatorBehaviour.cs" Line="174" Column="26" />
+      <File FileName="Assets\BackgroundMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Sample Assets\2D\Scripts\EnemyBehaviour.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
